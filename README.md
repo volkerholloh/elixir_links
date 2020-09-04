@@ -6,7 +6,7 @@ A small repo of best elixir content
 
 Persistent session data https://thepugautomatic.com/2020/05/persistent-session-data-in-phoenix-liveview/
 Communicating between liveviews https://thepugautomatic.com/2020/08/communicating-between-liveviews-on-the-same-page/
-
+Creating LiveView Modals with Tailwind CSS and AlpineJS http://blog.pthompson.org/liveview-tailwind-css-alpine-js-modal
 
 ## Ecto
 https://neiro.io/2018/01/21/postgres-full-text-search-using-ecto.html
