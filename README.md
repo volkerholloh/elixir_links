@@ -8,11 +8,9 @@ https://stackoverflow.com/questions/33406725/parametrizing-node-name-in-elixir-e
 
 ## Liveview
 
-Persistent session data https://thepugautomatic.com/2020/05/persistent-session-data-in-phoenix-liveview/
-
-Communicating between liveviews https://thepugautomatic.com/2020/08/communicating-between-liveviews-on-the-same-page/
-
-Creating LiveView Modals with Tailwind CSS and AlpineJS http://blog.pthompson.org/liveview-tailwind-css-alpine-js-modal
+* Persistent session data https://thepugautomatic.com/2020/05/persistent-session-data-in-phoenix-liveview/
+* Communicating between liveviews https://thepugautomatic.com/2020/08/communicating-between-liveviews-on-the-same-page/
+* Creating LiveView Modals with Tailwind CSS and AlpineJS http://blog.pthompson.org/liveview-tailwind-css-alpine-js-modal
 
 ## Authorization
 
