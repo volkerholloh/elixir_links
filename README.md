@@ -4,7 +4,7 @@ A small repo of best elixir content
 
 ## Elixir
 
-https://stackoverflow.com/questions/33406725/parametrizing-node-name-in-elixir-exrm
+* https://stackoverflow.com/questions/33406725/parametrizing-node-name-in-elixir-exrm
 
 ## Liveview
 
@@ -14,13 +14,13 @@ https://stackoverflow.com/questions/33406725/parametrizing-node-name-in-elixir-e
 
 ## Authorization
 
-Authorization Considerations For Phoenix Contexts https://dockyard.com/blog/2017/08/01/authorization-for-phoenix-contexts
+* Authorization Considerations For Phoenix Contexts https://dockyard.com/blog/2017/08/01/authorization-for-phoenix-contexts
 
 ## Preparing db
 
-Seeding data https://hexdocs.pm/phoenix/1.3.0-rc.1/seeding_data.html
-
-faker https://github.com/elixirs/faker
+* Seeding data https://hexdocs.pm/phoenix/1.3.0-rc.1/seeding_data.html
+* faker https://github.com/elixirs/faker
 
 ## Ecto
-https://neiro.io/2018/01/21/postgres-full-text-search-using-ecto.html
+
+* https://neiro.io/2018/01/21/postgres-full-text-search-using-ecto.html
