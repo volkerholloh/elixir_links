@@ -18,8 +18,8 @@ Authorization Considerations For Phoenix Contexts https://dockyard.com/blog/2017
 
 ## Preparing db
 
-https://hexdocs.pm/phoenix/1.3.0-rc.1/seeding_data.html
-https://github.com/elixirs/faker
+Seeding data https://hexdocs.pm/phoenix/1.3.0-rc.1/seeding_data.html
+faker https://github.com/elixirs/faker
 
 ## Ecto
 https://neiro.io/2018/01/21/postgres-full-text-search-using-ecto.html
