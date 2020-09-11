@@ -9,7 +9,9 @@ https://stackoverflow.com/questions/33406725/parametrizing-node-name-in-elixir-e
 ## Liveview
 
 Persistent session data https://thepugautomatic.com/2020/05/persistent-session-data-in-phoenix-liveview/
+
 Communicating between liveviews https://thepugautomatic.com/2020/08/communicating-between-liveviews-on-the-same-page/
+
 Creating LiveView Modals with Tailwind CSS and AlpineJS http://blog.pthompson.org/liveview-tailwind-css-alpine-js-modal
 
 ## Authorization
@@ -19,6 +21,7 @@ Authorization Considerations For Phoenix Contexts https://dockyard.com/blog/2017
 ## Preparing db
 
 Seeding data https://hexdocs.pm/phoenix/1.3.0-rc.1/seeding_data.html
+
 faker https://github.com/elixirs/faker
 
 ## Ecto
