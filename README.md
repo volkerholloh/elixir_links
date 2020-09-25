@@ -16,6 +16,10 @@ A small repo of best elixir content
 
 * Authorization Considerations For Phoenix Contexts https://dockyard.com/blog/2017/08/01/authorization-for-phoenix-contexts
 
+## Email integration
+
+* https://www.skcript.com/svr/using-bamboo-to-send-emails-in-phoenix/
+
 ## Preparing db
 
 * Seeding data https://hexdocs.pm/phoenix/1.3.0-rc.1/seeding_data.html
