@@ -20,6 +20,10 @@ A small repo of best elixir content
 
 * https://www.skcript.com/svr/using-bamboo-to-send-emails-in-phoenix/
 
+## Jobs and background processing
+
+* https://blog.appsignal.com/2019/05/14/elixir-alchemy-background-processing.html
+
 ## Preparing db
 
 * Seeding data https://hexdocs.pm/phoenix/1.3.0-rc.1/seeding_data.html
