@@ -6,6 +6,10 @@ A small repo of best elixir content
 
 * https://stackoverflow.com/questions/33406725/parametrizing-node-name-in-elixir-exrm
 
+## How I build this
+
+* API example https://www.poeticoding.com/another-guide-to-build-a-json-api-with-phoenix-1-5/
+
 ## Liveview
 
 * Persistent session data https://thepugautomatic.com/2020/05/persistent-session-data-in-phoenix-liveview/
