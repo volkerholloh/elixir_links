@@ -5,6 +5,7 @@ A small repo of best elixir content
 ## Elixir
 
 * https://stackoverflow.com/questions/33406725/parametrizing-node-name-in-elixir-exrm
+* Supervisor, supervision trees: https://kodius.com/blog/elixir-supervision-tree/
 
 ## How I build this
 
