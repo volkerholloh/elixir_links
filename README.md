@@ -28,6 +28,7 @@ A small repo of best elixir content
 ## Jobs and background processing
 
 * https://blog.appsignal.com/2019/05/14/elixir-alchemy-background-processing.html
+* Pubsub vs. Redis https://dashbit.co/blog/you-may-not-need-redis-with-elixir
 
 ## Preparing db
 
